@@ -1,12 +1,11 @@
 ---
 layout: home
 header:
-  title: Your Favorite Source of Free Bootstrap Themes
+  title: Chalet Vercorin
   text: >
-    Start Bootstrap can help you build better websites using the Bootstrap
-    framework! Just download a theme and start customizing, no strings attached!
+    3.5 pièces - 4 à 6 lits. Chalet entièrement rénové, centre du village, calme et ensoleillé, balcon.
   action: # action button is optional
-    label: Find Out More
+    label: A savoir plus
     url: '#about'
 
 
@@ -14,11 +13,11 @@ sections:
   - type: call-to-action.html
     section_id: about
     background_style: bg-primary
-    title: We've got what you need!
-    text: Start Bootstrap has everything you need to get your new website up and running in no time! All of the templates and themes on Start Bootstrap are open source, free to download, and easy to use. No strings attached!
+    title: Tout ce que vous avez besoin
+    text: "Rez de chaussée: séjour, cusine équipée, salle de bain. 1er étage: 2 chambres, salle de bain. TV, jardin, chauffage, pierre ollaire et électricité, non-fumeur, animaux non-admis."
     actions:
-      - title: Get Started!
-        url: '#page-top'
+      - title: Highlights!
+        url: '#services'
         class: btn-light
 
   - type: services.html
